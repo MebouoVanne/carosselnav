@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/carosselnav/static/css/main.2bfa5cfa.css",
+    "main.js": "/carosselnav/static/js/main.6b650dda.js",
+    "static/js/787.d0e6249c.chunk.js": "/carosselnav/static/js/787.d0e6249c.chunk.js",
+    "static/media/sac2.jpg": "/carosselnav/static/media/sac2.3e933ac203fd903b05e5.jpg",
+    "static/media/sac7.jpg": "/carosselnav/static/media/sac7.8962f40e4e1f5c118927.jpg",
+    "static/media/sac1.jpg": "/carosselnav/static/media/sac1.7f4e6c2a94405202023c.jpg",
+    "static/media/service.jpg": "/carosselnav/static/media/service.153986ce9de76245d107.jpg",
+    "static/media/sac5.jpg": "/carosselnav/static/media/sac5.ed953e5a1a490389b1fd.jpg",
+    "static/media/accueil.jpg": "/carosselnav/static/media/accueil.cc20e38407d16c1a344c.jpg",
+    "static/media/contact.jpg": "/carosselnav/static/media/contact.f7813eaaeb295c70c1d8.jpg",
+    "static/media/sac6.jpg": "/carosselnav/static/media/sac6.b8f46baa4e78bdc6389c.jpg",
+    "static/media/sac3.jpg": "/carosselnav/static/media/sac3.6c06058bc7c310299f44.jpg",
+    "static/media/sac8.jpg": "/carosselnav/static/media/sac8.00f40c404fa5b3a5c03b.jpg",
+    "static/media/sac4.jpg": "/carosselnav/static/media/sac4.6af3554d2c6ded1fec4d.jpg",
+    "static/media/sac10.jpg": "/carosselnav/static/media/sac10.6f49acdd4d4fb4a8eddd.jpg",
+    "static/media/apropos.png": "/carosselnav/static/media/apropos.b8aa3dbed9404cb579aa.png",
+    "static/media/sac9.jpg": "/carosselnav/static/media/sac9.d9f82c01a6a3eadf6702.jpg",
+    "static/media/revicons.eot": "/carosselnav/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/carosselnav/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/carosselnav/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/carosselnav/index.html",
+    "main.2bfa5cfa.css.map": "/carosselnav/static/css/main.2bfa5cfa.css.map",
+    "main.6b650dda.js.map": "/carosselnav/static/js/main.6b650dda.js.map",
+    "787.d0e6249c.chunk.js.map": "/carosselnav/static/js/787.d0e6249c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2bfa5cfa.css",
+    "static/js/main.6b650dda.js"
+  ]
+}

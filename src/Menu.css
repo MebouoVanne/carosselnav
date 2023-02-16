@@ -1,0 +1,23 @@
+.liste_liste{
+    height: 50px;
+    background: linear-gradient(45deg,rgb(116, 48, 116),midnightblue);
+text-decoration: none;
+}
+.liste{
+    list-style-type: none;
+    background: linear-gradient(45deg,rgb(116, 48, 58),midnightblue); 
+   height: 100%;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   position: relative;
+   font-size: 20px;
+}
+
+.items{
+    margin-right: 10px;
+    color: #f1f1f1;
+    cursor: pointer;
+    padding-right: 40px;
+    text-decoration: none;
+}

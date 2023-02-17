@@ -5,7 +5,7 @@ const Menu = () => {
     return (
         <div className='liste_liste'>
             <ul className='liste'>
-                <NavLink to='/'>
+                <NavLink to='/carosselnav'>
                 <li className='items'>Accueil</li>
                 </NavLink>
                 <NavLink to='/Portofolio'>
